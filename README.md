@@ -182,15 +182,6 @@ Este projeto serve como uma base sólida para futuras análises, como modelagem 
 
 * **Jupyter Notebook:** Para o desenvolvimento interativo e apresentação da análise.
 
-## Como Executar o Projeto
-
-1. **Clone o Repositório:**
-2. 2. **Crie um Ambiente Virtual (Opcional, mas Recomendado):**
-   3. Para copiar o README, você pode simplesmente selecionar todo o texto dentro do immersive que está aberto no lado direito da tela e copiá-lo.
-
-Se preferir, posso colar o conteúdo aqui no chat para você copiar mais facilmente:
-
-Markdown
 
 # Análise Exploratória de Dados (EDA) de Restaurantes iFood
 
